@@ -21,11 +21,15 @@ The main window of the application allows the user to choose one of the 5 availa
 
 ** Single LiDAR data acquisition - Waveshare STL-27L **
 
-https://github.com/user-attachments/assets/9d352926-f6a0-4818-944b-b5e4e5790a48
+https://github.com/user-attachments/assets/0af75419-1345-4458-8934-2fe530db2b8b
 
 ** Single LiDAR data acquisition - Slamtec A2M8 **
 
+https://github.com/user-attachments/assets/7b4041e9-d50e-4f91-882e-2cfb5e5d4547
+
 ** Double LiDAR data acquisition - both devices **
+
+https://github.com/user-attachments/assets/73cdd115-0e28-42ed-bfd5-9348b8b5e749
 
 ## ICP algorithm mode
 
