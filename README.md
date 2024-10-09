@@ -15,7 +15,7 @@ To run the application, an environment that supports Python version 3.10 is requ
 
 ![main_w](https://github.com/user-attachments/assets/ac23c00e-161a-475f-b751-625891c2773b)
 
-The main window of the application allows the user to choose one of the 5 available application modes and to exit the application
+The main window of the application allows the user to choose one of the 5 available application modes and to exit the application.
 
 ## Scan acquisition mode
 
@@ -31,10 +31,28 @@ https://github.com/user-attachments/assets/7b4041e9-d50e-4f91-882e-2cfb5e5d4547
 
 https://github.com/user-attachments/assets/73cdd115-0e28-42ed-bfd5-9348b8b5e749
 
+This mode allows live control of the scanning process for a single or both LiDAR devices, with the ability to adjust the data reading range and save scans to a CSV file.
+
 ## ICP algorithm mode
+
+![icp](https://github.com/user-attachments/assets/ecb5975b-7fb9-4ed4-b36d-6582a773c94f)
+
+This mode allows the alignment of two point clouds saved in a CSV file and displays the result on a chart.
 
 ## Scan Slicer mode
 
+![slice](https://github.com/user-attachments/assets/2c7fe122-2dae-4672-b025-f119d44111ea)
+
+This mode allows loading any scan in CSV format from the 'Scans' folder into the application window, followed by the ability to select a portion of the point cloud and save the selected fragment to a CSV file under a user-defined name.
+
 ## Calculate slice parameters mode
 
+![analysis](https://github.com/user-attachments/assets/dc7fc73e-f595-4e92-adff-1fef692da3c2)
+
+This mode allows loading any profile in CSV format from the 'Slices' folder into the application window, followed by the calculation of certain statistical parameters, such as RMS error, linear regression, Pearson coefficient, profile length, and the profile's distance from the LiDAR system.
+
 ## Calculate angle of measured profile mode
+
+![degree](https://github.com/user-attachments/assets/e1e76044-25f3-45d0-ac88-a1e91c51a1b5)
+
+This mode allows loading any L-shaped profile in CSV format from the 'Slices' folder into the application window, followed by calculating the angle between the walls of the L-shaped profile.
