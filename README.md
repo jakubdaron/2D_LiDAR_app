@@ -10,5 +10,7 @@ To run the application, an environment that supports Python version 3.10 is requ
 - scipy - 1.12.0
 - pyserial - 3.3
 
-# UI description
+# UI presentation and description
 ** Main window **
+![main_w](https://github.com/user-attachments/assets/ac23c00e-161a-475f-b751-625891c2773b)
+
