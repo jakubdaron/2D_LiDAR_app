@@ -15,3 +15,4 @@ To run the application, an environment that supports Python version 3.10 is requ
 
 ![main_w](https://github.com/user-attachments/assets/ac23c00e-161a-475f-b751-625891c2773b)
 
+The main window of the application allows the user to choose one of the 5 available application modes and to exit the application
